@@ -1,0 +1,18 @@
+# to execute it on the Python interpreter
+import pyfirmata
+
+pin=12
+port='/dev/ttyACM0'
+
+board=pyfirmata.Arduino(port)
+
+# turn LED on
+board.digital[pin].write(1)
+
+
+# turn LED off
+board.digital[pin].write(0)
+
+# read pin
+board.digital[pin].read()
+
