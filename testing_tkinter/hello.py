@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.4
+
 import tkinter
 # Initialize main windows with title and size
 mainwindow = tkinter.Tk()
