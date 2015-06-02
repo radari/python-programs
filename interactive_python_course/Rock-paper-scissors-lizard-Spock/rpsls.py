@@ -67,7 +67,9 @@ def rpsls(player_choice):
     if result in (1,2):
         print "Computer wins!"
     elif result in (3,4):
-        print"Player wins!"
+        print "Player wins!"
+    elif result == 0:
+        print "Player and computer tie!"
 
 # testing your code - THESE CALLS MUST BE PRESENT IN YOUR SUBMITTED CODE
 rpsls("rock")
