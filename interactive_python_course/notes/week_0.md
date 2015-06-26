@@ -1,8 +1,3 @@
----
-output: 
-  html_document: 
-    theme: spacelab
----
 #Week zero
 
 ####Comments - CodeSkulptor
