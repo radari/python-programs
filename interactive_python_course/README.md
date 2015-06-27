@@ -31,3 +31,8 @@ You will interact with your program using an input field and several buttons. Fo
 ## Stopwatch: The Game
 A simple digital stopwatch that keeps track of the time in tenths of a second.
 The stopwatch should contain "Start", "Stop" and "Reset" buttons.
+
+
+## "Pong"
+In this project, we will build a version of [Pong](https://en.wikipedia.org/wiki/Pong), one of the first arcade video games (1972).
+
